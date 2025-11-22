@@ -14,7 +14,6 @@
 <li>🧐 Learning more about Clean Architecture, SOLID principles, and advanced Flutter patterns.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
 <li>💬 Ping me about Flutter, Dart, REST APIs, or mobile app development.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1a_tge_bphXOX6vXGLZN-gfLV6MOget7R/view?usp=drive_link">resume</a>.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
