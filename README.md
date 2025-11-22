@@ -58,4 +58,3 @@ I’m passionate about creating **efficient, user-friendly mobile apps** and con
 
 </div>
 
-![Snake Animation](https://github.com/Sarahelkholy/Sarahelkholy/blob/output/snake-dark.svg)
