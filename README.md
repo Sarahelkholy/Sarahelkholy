@@ -1,29 +1,72 @@
-<h2>Hey 👋, I'm Sara Elkholy</h2>
-<p>I'm a Flutter Developer with experience in building cross-platform mobile applications, integrating REST APIs, and working with modern state management techniques. I am passionate about creating efficient, user-friendly mobile solutions and continuously learning new technologies.</p>
+<h1 align="center">Hello, I'm Sara Elkholy</h1>
+<h3 align="center">Flutter Developer | Mobile App Enthusiast | Cross-platform Apps</h3>
 
-<p>
-<a href="mailto:saraelkholy307@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"></a>
-<a href="https://www.linkedin.com/in/sara-elkholy-06189126b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://github.com/Spiderpig86"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"></a>
-<a href="https://drive.google.com/file/d/1a_tge_bphXOX6vXGLZN-gfLV6MOget7R/view?usp=drive_link"><img src="https://img.shields.io/badge/-CV-4E69C8?style=flat-square&logo=google-drive&logoColor=white" alt="CV Badge"></a>
-</p>
+<div align="center">
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on Flutter projects and improving my skills in state management (Bloc, Cubit, GetX).</li>
-<li>🧐 Learning more about Clean Architecture, SOLID principles, and advanced Flutter patterns.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>💬 Ping me about Flutter, Dart, REST APIs, or mobile app development.</li>
-</ul>
+[![Profile Views](https://komarev.com/ghpvc/?username=Spiderpig86&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Spiderpig86)
+[![GitHub Followers](https://img.shields.io/github/followers/Spiderpig86?style=social)](https://github.com/Spiderpig86)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-elkholy-06189126b/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:saraelkholy307@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View-4E69C8?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1a_tge_bphXOX6vXGLZN-gfLV6MOget7R/view?usp=drive_link)
 
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
-</p>
+</div>
+
+---
+
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+###
+
+<div align="left">
+  
+I’m a Flutter Developer passionate about **building cross-platform mobile applications** and creating **user-friendly, efficient apps**.  
+I enjoy learning new technologies and improving my skills in **state management, architecture, and mobile app optimization**.
+
+- 🔭 **Currently working on:** Flutter projects & exploring advanced state management (Bloc, Cubit, GetX)  
+- 🌱 **Currently learning:** Clean Architecture, SOLID principles, and testing & CI/CD for Flutter  
+- 💼 **Open to:** Mobile app development opportunities & collaborations  
+- 📫 **Reach me at:** saraelkholy307@gmail.com 
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Frameworks
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+### Databases & Tools
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Spiderpig86&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Spiderpig86&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spiderpig86&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+</div>
