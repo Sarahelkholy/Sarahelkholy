@@ -47,14 +47,13 @@ I’m passionate about creating **efficient, user-friendly mobile apps** and con
 </div>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Sarahelkholy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Sarahelkholy&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarahelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarahelkholy&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarahelkholy&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarahelkholy&theme=tokyonight)
 
 </div>
 
