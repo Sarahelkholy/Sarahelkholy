@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-elkholy-06189126b/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:saraelkholy307@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View-4E69C8?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1a_tge_bphXOX6vXGLZN-gfLV6MOget7R/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/CV-View-4E69C8?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1NxR8XiLuyehS3zWeaS0bmiuSu6vvspIm/view?usp=drive_link)
 
 </div>
 
